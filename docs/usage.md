@@ -1,0 +1,8 @@
+# Usage Guide - study-planner
+
+Study planner and timetable generator
+
+## Getting Started
+1. Clone the repo
+2. Follow README instructions
+3. Run the main file from src/
